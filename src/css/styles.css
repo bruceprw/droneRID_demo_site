@@ -1,0 +1,33 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+body {
+    /* background-color: #FDEFEF; */
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+table {
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr {
+    border-color: #CDBBA7;
+    /* background-color: #FDEFEF; */
+    border-style: dotted none none none;
+    border-width: 5px;
+    height: 0px;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #5089C6;
+}
+
+h2 {
+    color: #CD113B;
+}
